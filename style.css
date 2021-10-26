@@ -1,0 +1,22 @@
+body{
+    background-color: hotpink;
+    background-image:url(background.jpg);
+    background-attachment: fixed;
+}
+div{
+    background-color: magenta;
+    width: 1000px ;
+    height: 1500px ;
+    background-image:url(cube.jpg) ;
+    background-repeat: no-repeat;
+    /* background position: right top; */
+    background-position-x: 50px ;
+    background-position-y: 50px ;
+}
+h1{
+    text-align: center;
+    background-image: url(cube.jpg);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    text-shadow:8px 2px blueviolet;
+}
